@@ -1,5 +1,4 @@
 import StarRatingComponent from 'react-star-rating-component';
-import React from 'react'
 
 const Search = ({setSearch, setRate}) => {
   return (
